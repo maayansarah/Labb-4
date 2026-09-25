@@ -7,10 +7,10 @@ let firstname = "Maayan"; //förnamn
 let lastname = "Grolman"; //efternamn
 
 let fullname = firstname + " " + lastname; //helnamn
-console.log("Namn: " + fullname);
+console.log(`Namn: ${fullname}`);
 
 let age = 32; //ålder
-console.log("Ålder: " + age);
+console.log(`Ålder: ${age}`);
 
 let isStudent = true; //student eller inte
-console.log("Student: " + isStudent);
+console.log(`Student: ${isStudent}`);
