@@ -6,11 +6,6 @@ function calculateArea(width, height) {
   return width * height;
 }
 
-let rectangleOne = calculateArea(7, 8);
-console.log(`Arean är: ${rectangleOne}`);
-
-let rectangleTwo = calculateArea(3, 2);
-console.log(`Arean är: ${rectangleTwo}`);
-
-let rectangleThree = calculateArea(10, 22);
-console.log(`Arean är: ${rectangleThree}`);
+console.log(`Arean är: ${calculateArea(3, 3)}`);
+console.log(`Arean är: ${calculateArea(5, 70)}`);
+console.log(`Arean är: ${calculateArea(8, 9)}`);
