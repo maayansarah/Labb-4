@@ -11,4 +11,5 @@ function printTimeTable(table) {
     let product = i * table; //uträkningen
     result += `${i} * ${table} = ${product}`;
   }
+  console.log(result); //utskriften
 }
