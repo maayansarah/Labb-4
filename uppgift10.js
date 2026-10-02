@@ -13,3 +13,6 @@ function printTimeTable(table) {
   }
   console.log(result); //utskriften
 }
+
+//Anropa funktionen
+printTimeTable(5);
