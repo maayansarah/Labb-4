@@ -9,7 +9,7 @@ function printTimeTable(table) {
   //Loopa 1 - 10
   for (let i = 1; i <= 10; i++) {
     let product = i * table; //uträkningen
-    result += `${i} * ${table} = ${product}`;
+    result += `${i} * ${table} = ${product} \n`;
   }
   console.log(result); //utskriften
 }
