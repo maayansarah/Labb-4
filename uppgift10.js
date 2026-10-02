@@ -3,4 +3,6 @@
 "use strict";
 
 //Skapa funktion
-function printTimeTable(table) {}
+function printTimeTable(table) {
+  let result = "";
+}
